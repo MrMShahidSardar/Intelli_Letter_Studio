@@ -1,4 +1,5 @@
 📝 Intelli Letter Studio
+
 A Streamlit-based web application that automates the creation of professional Motivation Letters and Cover Letters using CVs (Word, Text, or PDF), a job/program advertisement, and recruiter details. Built with integration to OpenAI’s GPT-4, this tool supports real-time generation and multi-format downloads (TXT, DOCX, PDF).
 
 🔍 Features
