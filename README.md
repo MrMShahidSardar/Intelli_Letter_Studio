@@ -35,6 +35,7 @@ PyMuPDF	PDF file parsing
 ReportLab	PDF generation from text
 
 📦 Installation
+
 Clone the Repository
 
 bash
@@ -104,6 +105,7 @@ Motivation Letter: 500–700 words (academic tone)
 Cover Letter: 300–500 words (professional tone)
 
 ✅ To Do / Enhancements
+
  Add custom formatting templates
 
  Support multiple languages (i18n)
@@ -119,6 +121,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👤 Author
+
 Muhammad Shahid Sardar
+
 Data Specialist | Data Scientist | Streamlit Developer
 LinkedIn: (https://www.linkedin.com/in/muhammad-shahid-sardar/)
