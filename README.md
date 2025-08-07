@@ -84,11 +84,17 @@ Download the result in .txt, .docx, or .pdf format
 bash
 Copy
 Edit
+
 academic-application-generator/
+
 │
+
 ├── app.py                    # Main Streamlit app
+
 ├── requirements.txt          # Python dependencies
+
 └── README.md                 # Project documentation
+
 🔐 OpenAI API Key Setup
 You need to enter your OpenAI API Key in the Streamlit sidebar to enable letter generation.
 
