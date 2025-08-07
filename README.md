@@ -61,6 +61,7 @@ bash
 Copy
 Edit
 streamlit run app.py
+
 🧪 Requirements
 Python 3.8+
 
