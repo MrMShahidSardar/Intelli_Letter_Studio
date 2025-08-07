@@ -125,4 +125,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Muhammad Shahid Sardar
 
 Data Specialist | Data Scientist | Streamlit Developer
+
 LinkedIn: (https://www.linkedin.com/in/muhammad-shahid-sardar/)
