@@ -86,11 +86,3 @@ Author: Muhammad Shahid Sardar
 🔗 [LinkedIn – Muhammad Shahid Sardar](https://linkedin.com/in/muhammad-shahid-sardar) 
 
 
-
-
-## 🎥 Live Demo  
-![App Demo](assets/demo.gif)  
-*Instantly create AI-crafted letters tailored to your CV and job role.*
-
----
-
